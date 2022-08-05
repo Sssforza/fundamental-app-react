@@ -10,6 +10,9 @@
 .App {
     width: 800px;
 }
+.postList {
+    margin-top: 40px;
+}
 .post {
     display: flex;
     padding: 15px;
